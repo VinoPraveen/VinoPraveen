@@ -10,11 +10,11 @@ I enjoy building practical projects, improving my problem-solving skills, and le
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Sc. Computer Science
-* 💻 Interested in **Java & Web Development**
-* 🌱 Currently improving my **Java, OOP, SQL, and backend development** skills
-* 🛠️ Interested in building clean, responsive, and user-friendly applications
-* 🔍 Looking for opportunities to grow as a **Software Developer / Java Developer**
+*  B.Sc. Computer Science
+*  Interested in **Java & Web Development**
+*  Currently improving my **Java, OOP, SQL, and backend development** skills
+*  Interested in building clean, responsive, and user-friendly applications
+*  Looking for opportunities to grow as a **Software Developer / Java Developer**
 
 ---
 
@@ -38,9 +38,9 @@ I enjoy building practical projects, improving my problem-solving skills, and le
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🌱 FarmDirect — Farmer-to-Consumer Website
+###  FarmDirect — Farmer-to-Consumer Website
 
 A responsive frontend web application designed to provide a digital platform for connecting farmers and consumers.
 
@@ -56,7 +56,7 @@ A responsive frontend web application designed to provide a digital platform for
 
 ---
 
-### 💻 Personal Portfolio Website
+### Personal Portfolio Website
 
 A responsive portfolio website created to showcase my projects, technical skills, and academic work.
 
@@ -71,7 +71,7 @@ A responsive portfolio website created to showcase my projects, technical skills
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Intern — Infogrow Solutions
 
@@ -81,14 +81,14 @@ Gained professional experience working with documentation and understanding proj
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 * **Cloud Security Fundamentals** — IBM SkillsBuild
 * **Lingua Skill Cambridge Certificate — B1 Level**
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 ```text
 Java
@@ -112,16 +112,16 @@ Exploring
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-📧 **Email:** [avinopraveen@gmail.com](mailto:avinopraveen@gmail.com)
+ **Email:** [avinopraveen@gmail.com](mailto:avinopraveen@gmail.com)
 
-💼 **LinkedIn:** [linkedin.com/in/vino-praveen](https://www.linkedin.com/in/vino-praveen)
+ **LinkedIn:** [linkedin.com/in/vino-praveen](https://www.linkedin.com/in/vino-praveen)
 
-📍 **Chennai, Tamil Nadu**
+ **Chennai, Tamil Nadu**
 
 ---
 
-### 🚀 Learning, building, and improving one project at a time.
+###  Learning, building, and improving one project at a time.
 
 
