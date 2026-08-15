@@ -8,7 +8,7 @@ I enjoy building practical projects, improving my problem-solving skills, and le
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 *  B.Sc. Computer Science
 *  Interested in **Java & Web Development**
@@ -18,7 +18,7 @@ I enjoy building practical projects, improving my problem-solving skills, and le
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Programming
 
