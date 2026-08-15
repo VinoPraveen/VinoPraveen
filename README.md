@@ -26,7 +26,7 @@ I enjoy building practical projects, improving my problem-solving skills, and le
 
 ### Web Development
 
-`HTML` `CSS`
+`HTML` `CSS``JavaScript`
 
 ### Database
 
