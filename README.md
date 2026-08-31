@@ -1,4 +1,4 @@
-# Hi, I'm Vino Praveen 👋
+# Hi, I'm Vino Praveen
 
 ### B.Sc. Computer Science | Java Developer | Web Development
 
